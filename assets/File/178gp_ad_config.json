@@ -1,0 +1,34 @@
+{
+  "iv": [
+    {
+      "unitId": "n1hqnb4dvjkq8b",
+      "platform": "topon",
+      "adtype": "interstitial",
+      "ctime": 3000,
+      "weight": 3
+    },
+    {
+      "unitId": "nyr8CPqDRNZRcZmZeBVIK",
+      "platform": "cloudx",
+      "adtype": "interstitial",
+      "ctime": 3000,
+      "weight": 3
+    }
+  ],
+  "rv": [
+    {
+      "unitId": "n1hqnb4dvsjg3n",
+      "platform": "topon",
+      "adtype": "reward",
+      "ctime": 3000,
+      "weight": 3
+    },
+    {
+      "unitId": "FGPueNGqaa88h1fp-_-Y4",
+      "platform": "cloudx",
+      "adtype": "reward",
+      "ctime": 3000,
+      "weight": 3
+    }
+  ]
+}

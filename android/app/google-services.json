@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16012674320",
+    "project_id": "gp177-55000",
+    "storage_bucket": "gp177-55000.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16012674320:android:312a4c7ad0f11b694b5195",
+        "android_client_info": {
+          "package_name": "com.treeperks.growthrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13MLaH6Ssk7jQD8DHXTVqHPaLOXGumcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+skeleton.png
+size:1619,1042
+filter:Linear,Linear
+pma:true
+Only $86.96 to reach $100!
+bounds:1335,189,735,148
+offsets:7,17,750,174
+rotate:90
+Rectangle 34625498
+bounds:2,533,1056,507
+Rectangle 34625499
+bounds:1129,220,704,204
+offsets:0,1,704,205
+rotate:90
+Rectangle 34625500
+bounds:2,197,1125,334
+Rectangle 34625501
+bounds:1060,926,314,114
+offsets:0,0,314,128
+Rectangle 34625501-1
+bounds:941,25,676,162
+offsets:0,0,676,177
+You've earned $13.04
+bounds:2,2,937,193
+offsets:9,19,955,226

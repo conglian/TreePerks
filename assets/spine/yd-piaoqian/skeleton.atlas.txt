@@ -1,0 +1,8 @@
+skeleton.png
+size:148,102
+filter:Linear,Linear
+pma:true
+scale:0.5
+ChatGPT Image 2026年8月31日 16_56_52_element_1 4
+bounds:2,2,144,98
+offsets:25,45,195,194

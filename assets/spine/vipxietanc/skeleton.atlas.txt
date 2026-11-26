@@ -1,0 +1,34 @@
+skeleton.png
+size:2002,618
+filter:Linear,Linear
+pma:true
+Boost your account level!
+bounds:1129,167,540,73
+offsets:0,10,541,84
+Group 1597885017
+bounds:2,2,1125,614
+offsets:0,0,1125,615
+Group 1597885018
+bounds:1698,163,210,210
+offsets:14,14,238,238
+Upgrade your regular
+bounds:1129,375,777,126
+offsets:3,5,784,136
+Vector 72
+bounds:1547,57,381,104
+offsets:0,0,575,133
+Vector 73
+bounds:1129,242,567,131
+offsets:12,2,579,133
+Vector 75
+bounds:1129,7,48,84
+rotate:90
+Vector 76
+bounds:1908,469,59,32
+offsets:0,0,60,32
+for free.
+bounds:1129,57,416,108
+offsets:3,1,420,122
+tree to a VIP Apple Tree
+bounds:1129,503,871,113
+offsets:2,17,876,141

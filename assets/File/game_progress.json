@@ -1,0 +1,56 @@
+{
+  "int_ad": [
+    { "first_number": 0, "end_number": 50, "point": 0 },
+    { "first_number": 50, "end_number": 70, "point": 50 },
+    { "first_number": 70, "end_number": 99, "point": 80 },
+    { "first_number": 99, "end_number": null, "point": 100 }
+  ],
+
+  "first_ad_prize": 22.86,
+
+  "money_prize": [
+    { "first_number": 0, "end_number": 50, "prize": [8, 12] },
+    { "first_number": 50, "end_number": 80, "prize": [5, 8] },
+    { "first_number": 80, "end_number": 90, "prize": [3, 5] },
+    { "first_number": 97, "end_number": 99, "prize": [2, 3] }
+  ],
+
+  "first_apple_prize": 3,
+
+  "apple_prize": [
+    { "first_number": 0, "end_number": 5, "prize": [2, 3] },
+    { "first_number": 5, "end_number": 8, "prize": [1.5, 2] },
+    { "first_number": 9.5, "end_number": 10, "prize": [0.1, 0.2] }
+  ],
+
+  "first_gold_prize": 1,
+
+  "gold_prize": [
+    { "first_number": 0, "end_number": 2, "prize": [0.5, 1] },
+    { "first_number": 2, "end_number": 4, "prize": [0.2, 0.5] },
+    { "first_number": 4, "end_number": 4.8, "prize": [0.1, 0.2] },
+    { "first_number": 4.8, "end_number": 5, "prize": [0.05, 0.1] }
+  ],
+
+  "notification_prize": 5,
+
+  "wheel_symbol_count": 3,
+
+  "bubble_interval": 1800,
+
+  "bird_interval": 120,
+
+
+
+  "tixian_task": [
+    { "title": "quiz", "data": 10 }
+  ],
+
+  "queue_first_point": [5, 8],
+
+  "cut_in": [
+    { "first_number": 0, "end_number": 50, "prize": [5, 8] },
+    { "first_number": 50, "end_number": 80, "prize": [3, 5] },
+    { "first_number": 80, "end_number": 100, "prize": [1, 3] }
+  ]
+}
